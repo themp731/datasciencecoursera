@@ -37,3 +37,7 @@ ProgrammingAssignment2/
 DataCleaning/
 
 Resources/Power.txt
+
+Resources/exdata/summarySCC_PM25.rds
+
+Resources/exdata/Source_Classification_Code.rds
